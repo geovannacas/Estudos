@@ -1,6 +1,6 @@
 # **Notas**
 
->*Desafio Github  —  LocalizaLabs*
+>*Desafio Github - Digital Innovation One*
 
 
 ## **Sumário** 
@@ -16,11 +16,9 @@
 - Quantidade de Abono 
 - Tabuada 
 
-### *2. Cursos Base (pdf)*
-- Estrutura de Dados
-- Git e GitHub
-- Pensamento Computacional
-- Primeiros Passos 
-- SCRUM
+### *2. Básico C#*
+- Tipo: Console
+
+### *3. Básico HTML e CSS*
 
 
